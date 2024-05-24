@@ -1,11 +1,7 @@
-# quicksort(int arr[], int start, int end)
-# Requires: 'start' >= 0
-#           'end' < length(arr)
 
 # MAIN
 addi sp, sp, 1000
-# Store array values in contiguous memory at mem address 0x0:
-# {10, 80, 30, 90, 40, 50, 70}
+
  addi a0, x0, 0
 
  addi t0, x0, 10
