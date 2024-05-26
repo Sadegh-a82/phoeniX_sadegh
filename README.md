@@ -32,29 +32,10 @@ The program ends with an exit system call.
 Summary:
 This program calculates the integer square root of a given number using binary search. The input value is defined in the data section, and the program uses a loop to perform binary search, comparing the square of the middle value with the input number to find the nearest integer square root.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/M-Mahdi-M1381/phoeniX_MMM/blob/main/Documents/Images/squareroot.png"  style="vertical-align:middle">
     <img alt="logo in light mode and dark mode" src="https://github.com/M-Mahdi-M1381/phoeniX_MMM/blob/main/Documents/Images/squareroot.png" style="vertical-align:middle">
 </picture>
-
-
-
-
-
 
 Quick Sort :
 Main Program Initialization
@@ -84,11 +65,6 @@ Summary
 
 This RISC-V assembly program sorts an array using the QuickSort algorithm. It initializes the array, calls the QuickSort function, and uses a partition function to divide the array around a pivot element. Recursive calls sort the subarrays until the entire array is sorted. The program then terminates with an ebreak instruction.
 
-
-
-
-
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/M-Mahdi-M1381/phoeniX_MMM/blob/main/Documents/Images/quicksort.png"  style="vertical-align:middle">
     <img alt="logo in light mode and dark mode" src="https://github.com/M-Mahdi-M1381/phoeniX_MMM/blob/main/Documents/Images/quicksort.png" style="vertical-align:middle">
@@ -97,6 +73,5 @@ This RISC-V assembly program sorts an array using the QuickSort algorithm. It in
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/M-Mahdi-M1381/phoeniX_MMM/blob/main/Documents/Images/mem.png"  style="vertical-align:middle">
     <img alt="logo in light mode and dark mode" src="https://github.com/M-Mahdi-M1381/phoeniX_MMM/blob/main/Documents/Images/mem.png" style="vertical-align:middle">
 </picture>
-
 
 Good luck
